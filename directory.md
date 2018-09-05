@@ -1,10 +1,10 @@
 # Community Directory
 ### Index:
-(Gonryun)[#GGonryun]
+(Gonryun)[#ggonryun]
 
 
 ### Users:
-#### (#GGonryun)
+#### (#ggonryun)
 __Community Handle:__ GGonryun
 __Name:__ Miguel C.  
 __Current Occupation:__ (optional)  
