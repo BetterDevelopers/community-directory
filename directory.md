@@ -1,7 +1,6 @@
 # Community Directory
 ### Index:
-G:
-  -(Gonryun)[#GGonryun]
+(Gonryun)[#GGonryun]
 
 
 ### Users:
