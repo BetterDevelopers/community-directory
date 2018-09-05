@@ -4,8 +4,7 @@
 
 
 ### Users:
-###### (#ggonryun)
-__Community Handle:__ GGonryun
+###### GGonryun
 __Name:__ Miguel C.  
 __Current Occupation:__ (optional)  
 __Desired Occupation:__ (optional)  
