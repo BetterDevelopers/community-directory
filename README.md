@@ -13,11 +13,13 @@ __Technologies I know:__
   2. (optional)
   3. (remove these optional)
   4. (list items if unnecessary)
+  
 __Technologies I'm learning/want to learn:__ (required)
   1. (required)
   2. (optional)
   3. (remove these optional)
   4. (list items if unnecessary)
+  
 __GitHub:__ (optional)  
 __Short Bio:__ (optional)  
 __Any other info:__ (optional)  
