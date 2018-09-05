@@ -4,7 +4,7 @@ This directory contains a list of volunteers and some introductory information. 
 ## How To Add Your Info 
 Please copy the following form and enter it in the directory file. Place your answers where the parentheses are, your responses should not be in parentheses. (if you are not seeing new lines made when you submit please ensure there are ***two white-spaces*** at the end of each of your responses).
 
-###### Community handle: (required)
+#### Community handle: (required)
 __Name:__ (optional)  
 __Current Occupation:__ (optional)  
 __Desired Occupation:__ (optional)  
