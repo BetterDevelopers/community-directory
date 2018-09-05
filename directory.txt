@@ -11,3 +11,11 @@ GitHub: (optional)
 Short Bio: (optional)  
 Any other info: (optional)  
 
+Community handle: Ken S
+Name: Ken
+Current Occupation: IT Engineer
+Desired Occupation: Not an IT Engineer
+Technologies I know: Python, VBA
+Technologies I'm learning: Javascript, React, NodeJS, Web Development
+Github: https://github.com/kenSandoval
+Short Bio: B.S in Business, IT Engineer in Silicon Valley. 
