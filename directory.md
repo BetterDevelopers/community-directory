@@ -1,6 +1,6 @@
 # Community Directory
 
-__Community handle:__ (required)
+__Community handle:__ (required) 
 __Name:__ (optional)  
 __Current Occupation:__ (optional)  
 __Desired Occupation:__ (optional)  
