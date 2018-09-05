@@ -1,6 +1,6 @@
 # Better Developer Community Directory  
   
-## How To Add Your Info
+## How To Add Your Info  
 Community handle:  
 Name: (optional)  
 Current Occupation: (optional)  
