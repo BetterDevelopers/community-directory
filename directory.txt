@@ -11,3 +11,13 @@ GitHub: (optional)
 Short Bio: (optional)  
 Any other info: (optional)  
 
+Community handle: shan5742
+Name: (Asam)  
+Current Occupation: (Freelance WebDev)  
+Desired Occupation: (Software Developer)  
+Technologies I know: HTML, CSS, JS
+Technologies I'm learning/want to learn: React, Node, Gulp, Redux, Sass, MongoDB, Gatsby
+GitHub: (https://github.com/shan5742)  
+Short Bio: (optional)  
+Any other info: (optional)  
+
