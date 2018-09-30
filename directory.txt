@@ -29,3 +29,13 @@ Technologies I'm learning/want to learn: Javascript, HTML, CSS
 GitHub: LaurenceNairne 
 Short Bio: Contrary to popular belief, I look my best with VR headset on...
 Any other info: A father, a husband, occasionally a moron.
+
+Community handle: Ken S
+Name: Ken  
+Current Occupation: IT Engineer 
+Desired Occupation: Not an IT Engineer
+Technologies I know: Python, VBA
+Technologies I'm learning/want to learn: Javascript, React, Redux, Sass
+GitHub: kenSandoval 
+Short Bio: I've been on and off learning to code for years and it's time to finally be serious about it.
+Any other info: Olympic Weightlifte, not Olympic level but hopefully national level soon.
