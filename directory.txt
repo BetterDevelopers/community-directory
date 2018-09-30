@@ -12,14 +12,13 @@ Short Bio: (optional)
 Any other info: (optional)
 
 Community handle: shan5742
-Name: (Asam)
-Current Occupation: (Freelance WebDev)
-Desired Occupation: (Software Developer)
+Name: Asam  
+Current Occupation: Freelance Web Developer
+Desired Occupation: Software Developer  
 Technologies I know: HTML, CSS, JS
 Technologies I'm learning/want to learn: React, Node, Gulp, Redux, Sass, MongoDB, Gatsby
-GitHub: (https://github.com/shan5742)
-Short Bio: (optional)
-Any other info: (optional)
+GitHub: https://github.com/shan5742
+Any other info: https://www.linkedin.com/in/asamshan/ 
 
 Community handle: laurence
 Name: Laurence
@@ -40,3 +39,14 @@ Technologies I'm learning/want to learn: Anything! I'm pretty free on time thoug
 Github: https://github.com/Arbalest007
 Short Bio: I'm an aspiring ninja.
 Any other info: Student, Part-Time MLG Gamer, Doggo Lover
+
+Community handle: Ken S
+Name: Ken  
+Current Occupation: IT Engineer 
+Desired Occupation: Not an IT Engineer
+Technologies I know: Python, VBA
+Technologies I'm learning/want to learn: Javascript, React, Redux, Sass
+GitHub: kenSandoval 
+Short Bio: I've been on and off learning to code for years and it's time to finally be serious about it.
+Any other info: Olympic Weightlifte, not Olympic level but hopefully national level soon.
+
