@@ -50,3 +50,13 @@ GitHub: kenSandoval
 Short Bio: I've been on and off learning to code for years and it's time to finally be serious about it.
 Any other info: Olympic Weightlifte, not Olympic level but hopefully national level soon.
 
+Community Handle: Are
+Name: Ryan
+Current Occupation: Prgorammer & Designer
+Desired Occupation: Better programmer and designer
+Technologies I know: HTML, CSS, JavaScript, React, Node, Linux, LAMP/LEMP, Redux, Sass, Python, Liquid, ...more
+Technologies I'm learning/want to know: Python more and higher levels of everything
+GitHub: Ar3Tea
+Short Bio: I've been off and on freelancing for a decade. I always want to be in tech, but life kept pulling me away from being directly in tech.
+From SEO to Product Management, I've always come back to programming and design
+Any other info: Full-time smart ass, resident cut up, musician, magician (not at the same time), lock picker,...more
