@@ -60,3 +60,14 @@ GitHub: Ar3Tea
 Short Bio: I've been off and on freelancing for a decade. I always want to be in tech, but life kept pulling me away from being directly in tech.
 From SEO to Product Management, I've always come back to programming and design
 Any other info: Full-time smart ass, resident cut up, musician, magician (not at the same time), lock picker,...more
+
+Community handle: Sneakygamer
+Name: Kenny
+Current Occupation: Student
+Desired Occupation: Web/Software Developer
+Technologies I know: HTML5, CSS3, JavaScript, JQuery, GIT, JSON, AJAX
+Technologies I'm learning/want to learn: Java, SQL, Linux / React, PHP, NodeJS, MERN, MongoDB, Express,...
+GitHub: https://github.com/Sneakzz
+Short Bio: I've been learning to code for about a year and a half now and currently working towards an associate's degree as a professional Web/Software developer. What can i say, i love programming, going to car shows (mostly customized cars), my pets, my friends and my family.
+OOH and games!
+Any other info: Sometimes socially awkward and i have no favorite color.
