@@ -69,4 +69,14 @@ Technologies I know: **_(familiar):_** C, Python, Java, HTML/CSS, Git **_(basic)
 Technologies I'm learning/want to learn: Rust, ClojureScript, Elixir, F#, Prolog, and trying to continue to get better at all of the above + appropriate frameworks
 GitHub: https://github.com/samuelludwig
 Short Bio: I'm currently a fulltime Junior-year College CS Student after finally leaving my retail job of 3 years; I've technically been programming since Middle School, and have been _seriously_ programming for a bit over a year now.  
-Any other info: An avid Iain M. Banks fan, I always try to maintain the SAMWAF mentality (Sense Amid Madness, Wit Amidst Folly). I also maintain that Alastair Reid's [_Curiosity_](https://www.poetryarchive.org/poem/curiosity) is personally one of the most important peices of writing that has ever existed. 
+Any other info: An avid Iain M. Banks fan, I always try to maintain the SAMWAF mentality (Sense Amid Madness, Wit Amidst Folly). I also maintain that Alastair Reid's [_Curiosity_](https://www.poetryarchive.org/poem/curiosity) is personally one of the most important peices of writing that has ever existed.  
+
+Community handle:
+Name: Jerel
+Current Occupation: Web Technician
+Desired Occupation: Full-Stack Developer
+Technologies I know: HTML/CSS, Bash, JavaScript, React, Linux
+Technologies I'm learning/want to learn: jQuery + Enterprise CMS (job requirements), Redux, Python, SQL, PHP, DiscordJS, Node.JS, C/C++, Golang
+GitHub: https://github.com/jlayog
+Short Bio: Med student turned programmer, I think I can handle mess ups better in code than in the emergency room...
+Any other info: I stream on twitch occasionally, and make music when I feel inspired. Shameless [SoundCloud plug](https://soundcloud.com/JINLo) and [Twitch](https://twitch.tv/imjaywalking).
