@@ -98,7 +98,7 @@ Any other info: An avid Iain M. Banks fan, I always try to maintain the SAMWAF m
 
 ---
 
-Community handle: Im Helping You
+Community handle: Im Helping You  
 Name: Jerel  
 Current Occupation: Web Technician  
 Desired Occupation: Full-Stack Developer  
