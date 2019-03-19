@@ -11,6 +11,8 @@ GitHub: (optional)
 Short Bio: (optional)  
 Any other info: (optional)  
 
+---
+
 Community handle: shan5742  
 Name: Asam    
 Current Occupation: Freelance Web Developer  
@@ -19,6 +21,8 @@ Technologies I know: HTML, CSS, JS
 Technologies I'm learning/want to learn: React, Node, Gulp, Redux, Sass, MongoDB, Gatsby  
 GitHub: https://github.com/shan5742  
 Any other info: https://www.linkedin.com/in/asamshan/   
+
+---
 
 Community handle: laurence  
 Name: Laurence  
@@ -30,6 +34,8 @@ GitHub: LaurenceNairne
 Short Bio: Contrary to popular belief, I look my best with VR headset on...  
 Any other info: A father, a husband, occasionally a moron.  
 
+---
+
 Community handle: Nomad  
 Name: Patrick  
 Current Occupation: IT Coordinator / Part-Time College Student  
@@ -40,6 +46,8 @@ Github: https://github.com/Arbalest007
 Short Bio: I'm an aspiring ninja.  
 Any other info: Student, Part-Time MLG Gamer, Doggo Lover  
 
+---
+
 Community handle: Ken S  
 Name: Ken    
 Current Occupation: IT Engineer   
@@ -49,6 +57,8 @@ Technologies I'm learning/want to learn: Javascript, React, Redux, Sass
 GitHub: kenSandoval   
 Short Bio: I've been on and off learning to code for years and it's time to finally be serious about it.  
 Any other info: Olympic Weightlifte, not Olympic level but hopefully national level soon.  
+
+---
 
 Community Handle: Are  
 Name: Ryan  
@@ -61,6 +71,8 @@ Short Bio: I've been off and on freelancing for a decade. I always want to be in
 From SEO to Product Management, I've always come back to programming and design  
 Any other info: Full-time smart ass, resident cut up, musician, magician (not at the same time), lock picker,...more  
 
+---
+
 Community handle: Sneakygamer  
 Name: Kenny  
 Current Occupation: Student  
@@ -72,6 +84,8 @@ Short Bio: I've been learning to code for about a year and a half now and curren
 OOH and games!  
 Any other info: Sometimes socially awkward and i have no favorite color.  
 
+---
+
 Community handle: REPLhensibleSAM  
 Name: Sam  
 Current Occupation: Student  
@@ -81,6 +95,8 @@ Technologies I'm learning/want to learn: Rust, ClojureScript, Elixir, F#, Prolog
 GitHub: https://github.com/samuelludwig  
 Short Bio: I'm currently a fulltime Junior-year College CS Student after finally leaving my retail job of 3 years; I've technically been programming since Middle School, and have been _seriously_ programming for a bit over a year now.  
 Any other info: An avid Iain M. Banks fan, I always try to maintain the SAMWAF mentality (Sense Amid Madness, Wit Amidst Folly). I also maintain that Alastair Reid's [_Curiosity_](https://www.poetryarchive.org/poem/curiosity) is personally one of the most important peices of writing that has ever existed.    
+
+---
 
 Community handle: Im Helping You
 Name: Jerel  
